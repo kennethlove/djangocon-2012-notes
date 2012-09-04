@@ -15,4 +15,4 @@ DjangoCon 2012
     :maxdepth: 1
 
     maintaining-your-sanity
-    
+    django-and-backbone
