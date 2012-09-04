@@ -27,4 +27,9 @@ Django Analogues
 RESTful API
 ===========
 
+* Using a basic `views.View` view from Django REST Framework (not what I'd consider best practices -kl)
 
+Hijax
+=====
+
+* Plan for AJAX from the start, but implement at the end.

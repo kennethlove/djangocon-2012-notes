@@ -16,3 +16,4 @@ DjangoCon 2012
 
     maintaining-your-sanity
     django-and-backbone
+    designing-open-source
