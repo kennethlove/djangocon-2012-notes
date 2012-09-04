@@ -8,7 +8,7 @@ Packaging
 =========
 
 * Use pip
-* PEP 368
+* PEP 386
 * List a description and `__version__` number in `__init__.py` 
 
 Anti-Patterns
